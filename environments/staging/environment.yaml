@@ -5,7 +5,7 @@ app:
   # number of instances
   instances:
     # min number of instances. can be 0 for scale to 0. default to 1.
-    min: 1
+    min: 2
     # max number of instances. defaults to 1 if min == 0, otherwise defaults to min
     # q: what's the overall limit?
     max: 3
@@ -34,4 +34,3 @@ app:
   # Set the Java runtime version since sometimes (usually) the pom.xml compiler settings are 1.8
   java: 17
   endpoints: public
-  fake: fake
