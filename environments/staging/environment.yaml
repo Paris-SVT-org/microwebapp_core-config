@@ -34,4 +34,3 @@ app:
   # Set the Java runtime version since sometimes (usually) the pom.xml compiler settings are 1.8
   java: 17
   endpoints: public
-  fake: fake
