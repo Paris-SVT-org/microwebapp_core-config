@@ -13,6 +13,6 @@ app:
   variables:
     - name: io_openliberty_sample_system_inMaintenance
       value: "false"
-  version: ""
+  version: "a2adef23-d23f-4cfc-8811-224f9550b7d8"
   java: 17
   endpoints: public
